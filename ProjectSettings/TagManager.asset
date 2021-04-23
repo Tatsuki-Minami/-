@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - OutObject
+  - Heal
+  - DestroyObject
+  - Event1
+  - Enemy
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Glass
+    uniqueID: 2727582975
+    locked: 0
+  - name: Road
+    uniqueID: 3215355825
+    locked: 0
+  - name: Object
+    uniqueID: 2068365187
+    locked: 0
+  - name: Event
+    uniqueID: 3777907443
+    locked: 0
+  - name: Player
+    uniqueID: 2372092733
+    locked: 0
